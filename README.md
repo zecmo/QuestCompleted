@@ -1,2 +1,2 @@
 # QuestCompleted
-Displays a popup to check quest completion status by quest ID.
+WoW Add-on: Quick and easy way to check if you have completed a quest assuming you have the questId from Wowhead or other resource.
