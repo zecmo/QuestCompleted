@@ -2,9 +2,9 @@
 ## Title: Quest Completed
 ## IconTexture: Interface/Addons/QuestCompleted/art/QuestCompleted_small_icon
 ## Notes: Displays a popup to check quest completion status by quest ID.
-## Notes: |cff58C6FADisplays a popup to check quest completion status by quest ID.|r|n|cffbbbbbbBy zecmo|r|n|n|cffFFC700Slash command: /qc|r
+## Notes: |cff58C6FADisplays a popup to check quest completion status by quest ID.|r|n|cffbbbbbbBy zecmo|r|n|n|cffFFC700Slash command: /iqc|r
 ## Author: zecmo
-## Version: 1.0.0
+## Version: 1.0.1
 ## Category: Quests
 ## SavedVariables: QuestCompletedDB
 

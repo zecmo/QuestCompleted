@@ -36,7 +36,7 @@ end)
 -- Title
 QuestCompletedFrame.Title = QuestCompletedFrame:CreateFontString(nil, "OVERLAY", "GameFontNormal")
 QuestCompletedFrame.Title:SetPoint("TOP", 0, -5)
-QuestCompletedFrame.Title:SetText("Quest Completed?")
+QuestCompletedFrame.Title:SetText("Is Quest Completed?")
 
 -- Status message (above EditBox) with icon to the left
 QuestCompletedFrame.StatusText = QuestCompletedFrame:CreateFontString(nil, "OVERLAY", "GameFontHighlight")
@@ -167,7 +167,7 @@ QuestCompletedFrame.EnterButton:SetScript("OnClick", function()
 end)
 
 -- Slash command
-SLASH_QUESTCOMPLETED1 = "/qc"
+SLASH_QUESTCOMPLETED1 = "/iqc"
 SlashCmdList["QUESTCOMPLETED"] = function()
     QuestCompletedFrame:Show()
     QuestCompletedFrame.EditBox:SetText("")
